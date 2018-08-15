@@ -1,0 +1,67 @@
+.mainmenu-area .navbar-brand img {
+    height: 100px;
+    margin-top: -15px;
+}
+
+.overlay:before {
+    background:linear-gradient(45deg, rgb(198, 57, 45) 0%, rgb(204, 173, 170) 100%)!important;
+}
+
+.mainmenu-area:before{
+    background: linear-gradient(45deg, rgb(158, 32, 30) 0%, rgb(210, 159, 161) 100%)!important;
+}
+.gray-bg {
+    background-color: #fff5f9;
+}
+.bttn-default{
+    background:linear-gradient(45deg, rgb(198, 57, 45) 0%, rgb(204, 173, 170) 100%)!important;
+}
+
+.feature-area {
+    background-color: #ba6260 !important;
+}
+
+.gallery-area{
+    background: linear-gradient(45deg, rgb(158, 32, 30) 0%, rgb(210, 159, 161) 100%)!important;
+}
+
+.questions-area {
+    background-color: #efe7e7 !important;
+}
+
+.price-box .price-header:before {
+    background-color: #f7e8e8 !important;
+}
+
+.price-box .price-header:hover,.price-box .price-header:visited,.price-box .price-header:focus{
+    background: linear-gradient(45deg, rgb(158, 32, 30) 0%, rgb(210, 159, 161) 100%)!important;
+}
+
+.subscribe-area {
+    background: linear-gradient(45deg, rgb(158, 32, 30) 0%, rgb(210, 159, 161) 100%)!important;
+}
+
+.footer-box .box-icon{
+    background: linear-gradient(45deg, rgb(158, 32, 30) 0%, rgb(210, 159, 161) 100%)!important;
+}
+
+.footer-bottom {
+    background: linear-gradient(45deg, rgb(158, 32, 30) 0%, rgb(210, 159, 161) 100%)!important;
+    border-top: 1px solid #a83930;
+    color: #fff;
+}
+
+.footer-bottom .footer-menu ul li a{
+   color: #fff;
+}
+
+#scrollUp{
+   color: #eaeaea;
+}
+
+.blue-color {
+    color: rgb(0, 0, 0)!important;
+}
+.team-box h4 {
+    color:#434345
+}
